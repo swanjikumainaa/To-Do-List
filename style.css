@@ -1,0 +1,15 @@
+
+
+.addTodo{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+   
+}
+.imgAdd{
+    height: 30px;
+    margin-top: 0px;
+}
+form > input{
+    height: 25px;
+}
